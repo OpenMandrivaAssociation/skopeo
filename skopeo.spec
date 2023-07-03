@@ -8,7 +8,7 @@ Group:		Development/Other
 License:	ASL 2.0
 URL:		https://github.com/containers/skopeo
 Source0:	https://github.com/containers/skopeo/archive/v%{version}/%{name}-%{version}.tar.gz
-Patch0:		libvirt-sandbox-0.5.1-linkage.patch
+
 BuildRequires:	go
 BuildRequires:	git-core
 BuildRequires:	pkgconfig(gpgme)
