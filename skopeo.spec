@@ -2,7 +2,7 @@
 
 Summary:	A command line utility performing various operations on container images and image repositories
 Name:		skopeo
-Version:	1.12.0
+Version:	1.13.1
 Release:	1
 Group:		Development/Other
 License:	ASL 2.0
